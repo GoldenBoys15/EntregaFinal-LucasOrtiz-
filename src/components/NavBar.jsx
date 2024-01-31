@@ -24,17 +24,17 @@ function NavBar() {
                     </MenuButton>
                     <MenuList>
                         <MenuItem>
-                            <Link to='/category/alimento'>
+                            <Link to='/category/Alimento'>
                                 <p>Alimento</p>
                             </Link>
                         </MenuItem>
                         <MenuItem>
-                            <Link to='/category/juguetes'>
+                            <Link to='/category/Juguetes'>
                                 <p>Juguetes</p>
                             </Link>
                         </MenuItem>
                         <MenuItem>
-                            <Link to='/category/accesorios'>
+                            <Link to='/category/Accesorios'>
                                 <p>Accesorios</p>
                             </Link>
                         </MenuItem>
